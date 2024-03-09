@@ -18,6 +18,15 @@
       "decimals": 6,
       "logoURI": "https://static.optimism.io/data/USDC/logo.png",
       "tags": ["usdc", "bridged", "circle"]
+    },
+    {
+      "chainId": 7777777,
+      "address": "0xa6B280B42CB0b7c4a4F789eC6cCC3a7609A1Bc39",
+      "symbol": "Enjoy",
+      "name": "Enjoy",
+      "decimals": 18,
+      "logoURI": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7e69f604-5d91-4fa6-097f-a08309d5a800/original",
+      "tags": ["enjoy", "farcaster","seedclub"]
     }
   ]
 }
